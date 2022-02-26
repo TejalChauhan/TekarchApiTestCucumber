@@ -1,0 +1,8 @@
+com/test/Constants/SourcePath.class
+com/test/modules/UpdateUserPojo.class
+com/test/modules/AddUserPojo.class
+com/test/Utils/Utils.class
+com/test/modules/UserPojo.class
+com/test/modules/LoginPojo.class
+com/test/Constants/Endpoints.class
+com/test/modules/DeleteUserPojo.class
